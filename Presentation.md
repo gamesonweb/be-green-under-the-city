@@ -11,7 +11,7 @@ Création du jeu:
 Ma première idée était Burger War : Un jeu passionnant où on doit créer le meilleur burger possible. 
 Pour cela, on a des boutons qui font tomber les ingrédients.
 J'ai abandonné ce jeu à cause d'une vague de contrôles et d'un bug persistant.
-![Alt text](images/burger war.png?raw=true "Le premier projet")
+![Le premier projet](images/burger war.png)
 
 
 Ma deuxième idée était plutôt bien :
@@ -23,7 +23,7 @@ J'ai finalement abandonné ce projet pour plusieurs raisons:
   Avoir un openworld intéressant est plus compliqué que ce que je pensais.
   Les combats sont durs, répétitifs et chiants, ce qui fait le génie de Guitar Hero, c'est la guitare.
   Je n'ai pas réussi à lier une musique aux notes qui descendent.
-![Alt text](images/guitar hero.png?raw=true "Le deuxième projet")
+![Le deuxième projet](images/guitar hero.png)
 
 
 Et c'est à ce moment là que j'ai réalisé qu'il restait un peu plus d'une semaine.
