@@ -1,9 +1,10 @@
+<pre>
 Ma présentation:
 
 Je suis en PeiP 2 à Polytech.
 Je suis tout seul parce que je suis débile.
  
- 
+
  
  
 Création du jeu:
@@ -31,3 +32,4 @@ J'ai finalement abandonné ce projet pour plusieurs raisons:
 Et c'est à ce moment là que j'ai réalisé qu'il restait un peu plus d'une semaine.
 Dernière idée, il faut produire et arrété de réfléchir.
 J'ai pris toutes mes poubelles qui trainaient, je les ai foutues dans un même jeu et tada!
+</pre>
