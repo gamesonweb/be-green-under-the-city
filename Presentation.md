@@ -1,7 +1,9 @@
 # Ma présentation:
 
+J'aime pas parler de moi.
 Je suis en PeiP 2 à Polytech. <br/>
 Je suis tout seul parce que je suis débile.
+Regarde Pleasantries sur Youtube, c'est un ptn de dieu.
  
 <br/><br/><br/><br/> 
  
