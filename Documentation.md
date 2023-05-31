@@ -5,7 +5,7 @@ Jouer à tous les minijeux pour construire la meilleure maison (verte), et les m
 # La maison
 
 La première phase de jeu est la "maison".<br/>
-Vous vous déplacez avec la croix directionnelle.<br/> 
+Vous vous déplacez avec la croix directionnelle ou zqsd.<br/> 
 Il y a plusieurs plans de travail, vous pouvez interagir avec en cliquant sur le panneau vert (green).<br/>
 Cela va lancer un mini jeu. Si vous gagner, un nouvel équipement va apparaître. Bien joué, vous avez sauvé la Nature!!! (c'est green)<br/>
 
@@ -56,3 +56,4 @@ C'est vrai que la vie de ces pauvres moutons n'a pas d'importance comparé à de
 <br/><br/><br/><br/>
 
 Il est 1h du matin et j'ai un gros contrôle demain bref bonne nuit. Et dsl pour les fautes.
+Edit : Ca c'est bien passé
