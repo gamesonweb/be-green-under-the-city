@@ -45,12 +45,7 @@ Pro Tip : vous pouvez directement aller à gauche, il n'y a pas d'ennemis.<br/>
 
 # Pendu
 
-Le dernier mini jeu est un pendu (on l'a fait en cours, c'est pour ça qu'on la tous recycler (c'est green de recycler)).<br/>
-Vous pouvez cliquer sur les lettres ou utiliser le clavier.<br/>
-Si vous trouvez le mot, vous débloquerer un enclos où vous pourrez y mettre des moutons et les tondre (ce sera un DLC payant).<br/>
-Bien évidemment une cage coûte cher, donc vous devrez les entasser le plus possible dans le petite cage et leur donner la nourriture la moins chère que vous trouvez.<br/>
-Vous pourrez avoir des super vetements (toujours dans le futur DLC).<br/>
-C'est vrai que la vie de ces pauvres moutons n'a pas d'importance comparé à des vêtements. (Je dis ça, je dis rien (c'est pas green))<br/>
+Un pendu
 
 
 <br/><br/><br/><br/>
